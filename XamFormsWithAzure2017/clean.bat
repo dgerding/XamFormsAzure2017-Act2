@@ -1,0 +1,12 @@
+del %CD%\XamFormsWithAzure2017\bin\ /F/S/Q
+del %CD%\XamFormsWithAzure2017\obj\ /F/S/Q
+del %CD%\XamFormsWithAzure2017-standard\bin\ /F/S/Q
+del %CD%\XamFormsWithAzure2017-standard\obj\ /F/S/Q
+del %CD%\XamFormsWithAzure2017.iOS\bin\ /F/S/Q
+del %CD%\XamFormsWithAzure2017.iOS\obj\ /F/S/Q
+del %CD%\XamFormsWithAzure2017.Droid\bin\ /F/S/Q
+del %CD%\XamFormsWithAzure2017.Droid\obj\ /F/S/Q
+del %CD%\XamFormsWithAzure2017.MobileAppService\bin\ /F/S/Q
+del %CD%\XamFormsWithAzure2017.MobileAppService\obj\ /F/S/Q
+del %CD%\XamFormsWithAzure2017.UWP\bin\ /F/S/Q
+del %CD%\XamFormsWithAzure2017.UWP\obj\ /F/S/Q
