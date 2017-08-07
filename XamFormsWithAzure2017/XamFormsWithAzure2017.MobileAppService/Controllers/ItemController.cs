@@ -11,8 +11,7 @@ using XamFormsWithAzure2017.MobileAppService.Models;
 
 namespace XamFormsWithAzure2017.MobileAppService.Controllers
 {
-    // TODO: Uncomment [Authorize] attribute to require user be authenticated to access Item(s).
-    // [Authorize]
+    [Authorize]
     public class ItemController : TableController<Item>
     {
         protected override void Initialize(HttpControllerContext controllerContext)
